@@ -1,7 +1,7 @@
 [![Dipien](https://raw.githubusercontent.com/maxirosson/sample/master/.github/logo4.png)](http://www.dipien.com)
 
-# Project Name
-Project Description
+# Dipien Public Repo Template
+Template for Dipien public Github repositories
 
 ## Donations
 
