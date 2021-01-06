@@ -1,5 +1,3 @@
 package com.dipien.template
 
-open class TemplateExtension {
-
-}
+open class TemplateExtension
