@@ -1,4 +1,4 @@
-[![Dipien](https://raw.githubusercontent.com/maxirosson/sample/master/.github/logo4.png)](http://www.dipien.com)
+[![Dipien](https://raw.githubusercontent.com/dipien/dipien-public-repo-template/master/.github/dipien.png)](http://www.dipien.com)
 
 # Dipien Public Repo Template
 Template for Dipien public Github repositories
