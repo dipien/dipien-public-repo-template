@@ -15,4 +15,5 @@ buildscript {
 
 dependencies {
 	testImplementation(Libs.JUNIT)
+	testImplementation(Libs.TRUTH)
 }
