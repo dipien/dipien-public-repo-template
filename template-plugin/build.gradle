@@ -4,6 +4,7 @@ ext.ARTIFACT_ID = "template-plugin"
 ext.GRADLE_PLUGIN_ID = "com.dipien.template"
 ext.GRADLE_PLUGIN_IMPLEMENTATION_CLASS = "com.dipien.template.TemplatePlugin"
 ext.GRADLE_PLUGIN_PORTAL_TAGS = ["gradle", "plugin", "template"]
+ext.JAVADOC_PUBLICATION_ENABLED = false
 
 apply plugin: "com.jdroidtools.gradle.plugin"
 
