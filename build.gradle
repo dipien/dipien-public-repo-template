@@ -1,10 +1,11 @@
-version = '1.0.0'
+version = "1.0.0"
 
 ext.GITHUB_REPOSITORY_NAME = "template-plugin"
 
 apply plugin: "com.dipien.component.builder"
-apply plugin: 'com.jdroidtools.root'
+apply plugin: "com.jdroidtools.root"
 apply plugin: "com.dipien.release"
+apply plugin: "dependencies-plugin"
 
 buildscript {
 	repositories {
@@ -22,10 +23,16 @@ buildscript {
 	}
 
 	dependencies {
+		classpath 'com.dipien:dependencies-plugin:1.0.0'
+		classpath(Sample.JUNIT)
 		classpath(BuildLibs.DIPIEN_COMPONENT_BUILDER)
 		classpath(BuildLibs.JDROID_GRADLE_ROOT_PLUGIN)
 		classpath(BuildLibs.RELEASE_GRADLE_PLUGIN)
 	}
+}
+
+plugins {
+	id 'dependencies-plugin'
 }
 
 allprojects {
