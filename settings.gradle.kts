@@ -2,6 +2,12 @@ plugins {
     id("com.gradle.enterprise").version("3.6.3")
 }
 
-include(":template-plugin")
+if (System.getenv("CI") == "true") {
+    buildCache {
+        local {
+            directory = File(System.getProperty("user.home"), "/gradle-build-cache")
+        }
+    }
+}
 
-apply(from = java.io.File(settingsDir, "buildCacheSettings.gradle"))
+include(":template-plugin")

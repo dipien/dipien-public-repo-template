@@ -1,9 +1,9 @@
-version = '1.0.0'
+version = "1.0.0"
 
 ext.GITHUB_REPOSITORY_NAME = "template-plugin"
 
 apply plugin: "com.dipien.component.builder"
-apply plugin: 'com.jdroidtools.root'
+apply plugin: "com.jdroidtools.root"
 apply plugin: "com.dipien.release"
 
 buildscript {
