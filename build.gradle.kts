@@ -3,7 +3,7 @@ version = "1.0.0"
 buildscript {
 	repositories {
 		mavenCentral()
-		maven{ url = "https://oss.sonatype.org/content/repositories/snapshots/" }
+		maven(url = "https://oss.sonatype.org/content/repositories/snapshots/")
 		gradlePluginPortal()
 	}
 	dependencies {
@@ -11,5 +11,5 @@ buildscript {
 	}
 }
 
-apply plugin: "root-plugin"
+apply(plugin = "root-plugin")
 
