@@ -10,4 +10,7 @@ if (System.getenv("CI") == "true") {
     }
 }
 
+includeBuild("gradle-plugins/dependencies-plugin")
+includeBuild("gradle-plugins/root-plugin")
+includeBuild("gradle-plugins/gradle-project-plugin")
 include(":template-plugin")
