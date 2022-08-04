@@ -12,6 +12,8 @@ Sponsor this open source project to help us get the funding we need to continue 
 * [Donate on Patreon](http://patreon.dipien.com/)
 * [Become a member of Medium](https://membership.medium.dipien.com) [We will receive a portion of your membership fee]
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7E7OEA)
+
 ## Follow us
 * [Twitter](http://twitter.dipien.com)
 * [Medium](http://medium.dipien.com)
