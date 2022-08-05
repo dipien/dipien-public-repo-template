@@ -13,6 +13,7 @@ Sponsor this open source project to help us get the funding we need to continue 
 * [Become a member of Medium](https://membership.medium.dipien.com) [We will receive a portion of your membership fee]
 
 ## Follow us
+
 * [Twitter](http://twitter.dipien.com)
 * [Medium](http://medium.dipien.com)
 * [Instagram](http://instagram.dipien.com)
