@@ -16,5 +16,5 @@ object BuildLibs {
     const val SEMANTIC_VERSION_GRADLE_PLUGIN = "com.dipien:semantic-version-gradle-plugin:1.3.0"
 
     // https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md
-    const val KOTLIN_GRADLE_PLUGIN = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10"
+    const val KOTLIN_GRADLE_PLUGIN = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.20"
 }
