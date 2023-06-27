@@ -8,7 +8,6 @@ Template for Dipien public Github repositories
 Sponsor this open source project to help us get the funding we need to continue working on it.
 
 * [Donate with Bitcoin Lightning](https://getalby.com/p/dipien) ⚡️ [dipien@getalby.com](https://getalby.com/p/dipien)
-* [Donate cryptocurrency](http://coinbase.dipien.com/)
 * [Donate with credit card](http://kofi.dipien.com/)
 * [Donate on Patreon](http://patreon.dipien.com/)
 * [Become a member of Medium](https://membership.medium.dipien.com) [We will receive a portion of your membership fee]
